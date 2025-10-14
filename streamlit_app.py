@@ -16,7 +16,7 @@ st.markdown("Predict whether a member will **attend** or **miss** their fitness 
 # ------------------------------------------------------------
 # Load trained model
 # ------------------------------------------------------------
-MODEL_PATH = r"C:\Users\ADEEBSAYEED\Downloads\best_fitness_rf_model.joblib"
+MODEL_PATH = r"C:\Users\Machine learning Projects\Fitness\best_fitness_rf_model.joblib"
 if not os.path.exists(MODEL_PATH):
     st.error("❌ Model file not found! Train the model first.")
     st.stop()
