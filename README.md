@@ -1,4 +1,4 @@
-# 🏋️ Fitness Class Attendance Prediction System
+# 🏋️ Customer Engagement & Attendance Prediction System for Fitness Businesses”
 
 A web app that predicts whether a fitness club member will **attend** or **miss** their booked class, built using **Scikit-Learn** and **Streamlit**.
 
